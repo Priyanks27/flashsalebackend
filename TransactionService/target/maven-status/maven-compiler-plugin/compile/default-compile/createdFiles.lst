@@ -1,0 +1,8 @@
+com\lyit\multicloud\InventoryService\controller\HealthController.class
+com\lyit\multicloud\InventoryService\controller\TransactionController.class
+com\lyit\multicloud\InventoryService\data\constants\TransactionStates.class
+com\lyit\multicloud\InventoryService\data\models\TransactionModel.class
+com\lyit\multicloud\InventoryService\services\Impl\TransactionServiceImpl.class
+com\lyit\multicloud\InventoryService\TransactionServiceApplication.class
+com\lyit\multicloud\InventoryService\services\TransactionService.class
+com\lyit\multicloud\InventoryService\repository\TransactionRepository.class

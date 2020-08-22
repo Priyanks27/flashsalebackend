@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.lyit.multicloud.InventoryService.FlashSaleServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.525 s <<< FAILURE! - in com.lyit.multicloud.InventoryService.FlashSaleServiceApplicationTests
+com.lyit.multicloud.InventoryService.FlashSaleServiceApplicationTests  Time elapsed: 0.521 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+

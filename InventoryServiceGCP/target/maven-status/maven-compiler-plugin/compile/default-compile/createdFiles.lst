@@ -1,0 +1,13 @@
+com\lyit\multicloud\InventoryService\services\CacheService.class
+com\lyit\multicloud\InventoryService\data\models\InventoryModelList.class
+com\lyit\multicloud\InventoryService\controller\HealthController.class
+com\lyit\multicloud\InventoryService\data\models\InventoryModel.class
+com\lyit\multicloud\InventoryService\services\Impl\CacheServiceImpl.class
+com\lyit\multicloud\InventoryService\InventoryServiceApplication.class
+com\lyit\multicloud\InventoryService\services\Impl\InventoryServiceImpl.class
+com\lyit\multicloud\InventoryService\helper\EhCacheManager.class
+com\lyit\multicloud\InventoryService\services\InventoryService.class
+com\lyit\multicloud\InventoryService\ServletInitializer.class
+com\lyit\multicloud\InventoryService\services\Impl\InventoryServiceImpl$1.class
+com\lyit\multicloud\InventoryService\controller\InventoryController.class
+com\lyit\multicloud\InventoryService\repository\InventoryRepository.class
