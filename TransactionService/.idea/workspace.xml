@@ -2,10 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9426e0d3-7256-4e0c-bac1-d146b7cec2ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../FlashSaleService/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InventoryServiceGCP/.idea/libraries/Maven__io_springfox_springfox_core_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InventoryServiceGCP/.idea/libraries/Maven__io_springfox_springfox_schema_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InventoryServiceGCP/.idea/libraries/Maven__io_springfox_springfox_spi_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InventoryServiceGCP/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InventoryServiceGCP/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InventoryServiceGCP/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InventoryServiceGCP/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InventoryServiceGCP/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InventoryServiceGCP/.idea/libraries/Maven__io_swagger_swagger_models_1_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InventoryServiceGCP/.idea/libraries/Maven__org_mapstruct_mapstruct_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InventoryServiceGCP/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InventoryServiceGCP/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InventoryServiceGCP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InventoryServiceGCP/src/main/java/com/lyit/multicloud/InventoryService/config/Swagger2UiConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lyit/multicloud/InventoryService/config/Swagger2UiConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FlashSaleService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlashSaleService/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../InventoryServiceGCP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InventoryServiceGCP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InventoryServiceGCP/InventoryService.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../InventoryServiceGCP/InventoryService.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InventoryServiceGCP/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InventoryServiceGCP/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TransactionService.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TransactionService.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +34,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1gRQwDGf5ABtDAKcBeDqRAWYM36" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../InventoryServiceGCP/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lyit.multicloud.InventoryService.config" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
